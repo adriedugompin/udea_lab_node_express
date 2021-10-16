@@ -10,4 +10,4 @@ router.put('/', salesController.updateSale);
 
 router.delete('/', salesController.deleteSale);
 
-module.exports = router;
+module.exports = router; 

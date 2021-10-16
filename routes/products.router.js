@@ -10,4 +10,4 @@ router.put('/', productsController.updateProduct);
 
 router.delete('/', productsController.deleteProduct);
 
-module.exports = router;
+module.exports = router; 
