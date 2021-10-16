@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/adriedugompin/udea_lab_node_express#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "5.0.15"
   }
 }

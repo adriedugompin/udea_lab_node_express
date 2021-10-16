@@ -1,17 +1,19 @@
-const getSales = (req,res) => {
-   
+const SaleSchema = require('../models/sale')
+
+const getSales = (req, res) => {
+
 }
 
-const createSale = (req,res)=>{
-    
+const createSale = (req, res) => {
+
 }
 
-const updateSale = (req,res)=>{
-    
+const updateSale = (req, res) => {
+
 }
 
-const deleteSale = (req,res)=>{
-    
+const deleteSale = (req, res) => {
+
 }
 
 module.exports.getSales = getSales;
