@@ -23,4 +23,4 @@ app.use('/ventas', routes.salesRoutes);
 
 app.listen(port, () => {
     console.log(`listening on port http://localhost:${port}`);
-});
+}); 
